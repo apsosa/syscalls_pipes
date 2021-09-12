@@ -1,1 +1,1 @@
-# syscalls,pipes and sockets implementes in C
+# Syscalls,Pipes and Sockets
